@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @NickGolitsyn.
-- 🌱 I’m currently doing the "Front-End Engineer career path" course on CodeCademy.
+- 👋 Hi, I’m @NickGolitsyn. You can checkout my portfolio website at nickgolitsyn.com
 - 📫 You can reach me via my email (golitsynnick@gmail.com) or by phone (+44 7403 525139).
 
 <!---
