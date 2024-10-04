@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NickGolitsyn. You can checkout my portfolio website at nickgolitsyn.com
+- 👋 Hi, I’m @NickGolitsyn. You can checkout my portfolio website at www.nickgolitsyn.com
 - 📫 You can reach me via my email (golitsynnick@gmail.com) or by phone (+44 7403 525139).
 
 <!---
